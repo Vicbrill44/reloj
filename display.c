@@ -191,38 +191,4 @@ void close_display(void){
 
 
 
-
-
-
-/*
-
-void display_time(int hours, int minutes, int seconds){
-    //code goes here
- 
-}
-
-void display_colons(void) {
-     //code goes here
-
-}
-
-void display_hours(int hours) {
-    //code goes here
-
-}
-
-void display_minutes(int minutes) {
-    //code goes here
-
-}
-
-void display_seconds(int seconds) {
-    //code goes here
-
-}
-
-void close_display(void) {
-    //code goes here
-
-}
 */
